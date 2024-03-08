@@ -3161,7 +3161,7 @@
 			<property name="Prefab" value="Backpack"/>
 			<property name="Parent" value="Backpack"/>
 			<property name="IsEnemyEntity" value="false"/>
-			<property name="TimeStayAfterDeath" value="1200"/>
+			<property name="TimeStayAfterDeath" value="1800"/>
 			<property name="LootListOnDeath" value="zShitZombie"/>
 			<property name="Faction" value="none"/>
 		</entity_class>
@@ -3175,7 +3175,7 @@
 			<property name="Prefab" value="Backpack"/>
 			<property name="Parent" value="Backpack"/>
 			<property name="IsEnemyEntity" value="false"/>
-			<property name="TimeStayAfterDeath" value="1200"/>
+			<property name="TimeStayAfterDeath" value="1800"/>
 			<property name="LootListOnDeath" value="zPackStrong"/>
 			<property name="Faction" value="none"/>
 		</entity_class>
@@ -3190,7 +3190,7 @@
 			<property name="Prefab" value="Backpack"/>
 			<property name="Parent" value="Backpack"/>
 			<property name="IsEnemyEntity" value="false"/>
-			<property name="TimeStayAfterDeath" value="1200"/>
+			<property name="TimeStayAfterDeath" value="1800"/>
 			<property name="LootListOnDeath" value="zPackBoss"/>
 			<property name="Faction" value="none"/>
 		</entity_class>

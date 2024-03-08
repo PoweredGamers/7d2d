@@ -101,7 +101,7 @@
 
 				<property name="VehicleNoTake" value="false" />
 
-				<property name="ExtendedSigns" value="false" />
+				<property name="ExtendedSigns" value="true" />
 				
 				<!-- Enables item weight encumbrance on the Player bag -->
 				<property name="Encumbrance" value="false" />

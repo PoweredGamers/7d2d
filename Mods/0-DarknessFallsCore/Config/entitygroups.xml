@@ -604,8 +604,8 @@
 
 		<entitygroup name="ZombieScouts">
 			<entity name="zombieScreamer" />
-			<entity name="zombieScreamerFeral" prob="0.5"/>
-			<entity name="zombieScreamerRadiated" prob="0.3"/>  <!--
+			<entity name="zombieScreamerFeral" prob="0.3"/>
+			<entity name="zombieScreamerRadiated" prob="0.2"/>  <!--
 			<entity name="zombieSpider" prob="0.5"/>
 			<entity name="zombieSpiderFeral" prob="0.25"/>
 			<entity name="zombieSpiderRadiated" prob="0.1"/> -->
